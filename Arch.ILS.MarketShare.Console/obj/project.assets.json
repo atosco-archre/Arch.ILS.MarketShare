@@ -2133,9 +2133,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\atosco\\Source\\Repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.Console\\Arch.ILS.MarketShare.Console.csproj",
+      "projectUniqueName": "C:\\Users\\atosco\\source\\repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.Console\\Arch.ILS.MarketShare.Console.csproj",
       "projectName": "Arch.ILS.MarketShare.Console",
-      "projectPath": "C:\\Users\\atosco\\Source\\Repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.Console\\Arch.ILS.MarketShare.Console.csproj",
+      "projectPath": "C:\\Users\\atosco\\source\\repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.Console\\Arch.ILS.MarketShare.Console.csproj",
       "packagesPath": "C:\\Users\\atosco\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\atosco\\Source\\Repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.Console\\obj\\",
       "projectStyle": "PackageReference",
@@ -2159,8 +2159,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\atosco\\Source\\Repos\\Arch.ILS.Common\\Arch.ILS.Common\\Arch.ILS.Common.csproj": {
-              "projectPath": "C:\\Users\\atosco\\Source\\Repos\\Arch.ILS.Common\\Arch.ILS.Common\\Arch.ILS.Common.csproj"
+            "C:\\Users\\atosco\\source\\repos\\Arch.ILS.Common\\Arch.ILS.Common\\Arch.ILS.Common.csproj": {
+              "projectPath": "C:\\Users\\atosco\\source\\repos\\Arch.ILS.Common\\Arch.ILS.Common\\Arch.ILS.Common.csproj"
             }
           }
         }

@@ -20,3 +20,4 @@ C:\Users\atosco\source\repos\Arch.ILS.MarketShare\Arch.ILS.MarketShare\obj\Debug
 C:\Users\atosco\source\repos\Arch.ILS.MarketShare\Arch.ILS.MarketShare\obj\Debug\net8.0\refint\Arch.ILS.MarketShare.dll
 C:\Users\atosco\source\repos\Arch.ILS.MarketShare\Arch.ILS.MarketShare\obj\Debug\net8.0\Arch.ILS.MarketShare.pdb
 C:\Users\atosco\source\repos\Arch.ILS.MarketShare\Arch.ILS.MarketShare\obj\Debug\net8.0\ref\Arch.ILS.MarketShare.dll
+C:\Users\atosco\source\repos\Arch.ILS.MarketShare\Arch.ILS.MarketShare\obj\Debug\net8.0\Arch.ILS.MarketShare.sourcelink.json

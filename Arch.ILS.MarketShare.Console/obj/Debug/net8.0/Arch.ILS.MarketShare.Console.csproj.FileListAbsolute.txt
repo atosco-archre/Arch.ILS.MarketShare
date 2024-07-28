@@ -142,3 +142,4 @@ C:\Users\atosco\source\repos\Arch.ILS.MarketShare\Arch.ILS.MarketShare.Console\o
 C:\Users\atosco\source\repos\Arch.ILS.MarketShare\Arch.ILS.MarketShare.Console\obj\Debug\net8.0\Arch.ILS.MarketShare.Console.pdb
 C:\Users\atosco\source\repos\Arch.ILS.MarketShare\Arch.ILS.MarketShare.Console\obj\Debug\net8.0\Arch.ILS.MarketShare.Console.genruntimeconfig.cache
 C:\Users\atosco\source\repos\Arch.ILS.MarketShare\Arch.ILS.MarketShare.Console\obj\Debug\net8.0\ref\Arch.ILS.MarketShare.Console.dll
+C:\Users\atosco\source\repos\Arch.ILS.MarketShare\Arch.ILS.MarketShare.Console\obj\Debug\net8.0\Arch.ILS.MarketShare.Console.sourcelink.json

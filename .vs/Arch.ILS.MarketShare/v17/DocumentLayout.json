@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\atosco\\source\\repos\\Arch.ILS.MarketShare\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79A97C01-EDBD-4B6F-84B4-6B3B36786EBF}|Arch.ILS.MarketShare.Console\\Arch.ILS.MarketShare.Console.csproj|c:\\users\\atosco\\source\\repos\\arch.ils.marketshare\\arch.ils.marketshare.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A97C01-EDBD-4B6F-84B4-6B3B36786EBF}|Arch.ILS.MarketShare.Console\\Arch.ILS.MarketShare.Console.csproj|solutionrelative:arch.ils.marketshare.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373A570B-322B-4D9B-A190-3686492BF6F4}|Arch.ILS.MarketShare\\Arch.ILS.MarketShare.csproj|c:\\users\\atosco\\source\\repos\\arch.ils.marketshare\\arch.ils.marketshare\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373A570B-322B-4D9B-A190-3686492BF6F4}|Arch.ILS.MarketShare\\Arch.ILS.MarketShare.csproj|solutionrelative:arch.ils.marketshare\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atosco\\source\\repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Arch.ILS.MarketShare.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\atosco\\source\\repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.Console\\Program.cs",
+              "RelativeToolTip": "Arch.ILS.MarketShare.Console\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T01:56:50.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\atosco\\source\\repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare\\Class1.cs",
+              "RelativeDocumentMoniker": "Arch.ILS.MarketShare\\Class1.cs",
+              "ToolTip": "C:\\Users\\atosco\\source\\repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare\\Class1.cs",
+              "RelativeToolTip": "Arch.ILS.MarketShare\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T01:56:42.529Z",
+              "EditorCaption": ""
             }
           ]
         }

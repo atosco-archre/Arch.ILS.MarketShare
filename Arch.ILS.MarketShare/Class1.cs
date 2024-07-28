@@ -1,4 +1,4 @@
-﻿namespace Arch.MarketShare
+﻿namespace Arch.ILS.MarketShare
 {
     public class Class1
     {

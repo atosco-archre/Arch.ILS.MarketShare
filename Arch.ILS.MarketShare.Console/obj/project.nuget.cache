@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WPmj65eEfOY=",
+  "dgSpecHash": "GJI9bnjUHYc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\atosco\\Source\\Repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.Console\\Arch.ILS.MarketShare.Console.csproj",
+  "projectFilePath": "C:\\Users\\atosco\\source\\repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.Console\\Arch.ILS.MarketShare.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\atosco\\.nuget\\packages\\apache.arrow\\14.0.2\\apache.arrow.14.0.2.nupkg.sha512",
     "C:\\Users\\atosco\\.nuget\\packages\\awssdk.core\\3.7.0.4\\awssdk.core.3.7.0.4.nupkg.sha512",

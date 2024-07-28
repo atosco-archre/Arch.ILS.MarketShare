@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\atosco\\Source\\Repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.csproj": {}
+    "C:\\Users\\atosco\\source\\repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.csproj": {}
   },
   "projects": {
-    "C:\\Users\\atosco\\Source\\Repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.csproj": {
+    "C:\\Users\\atosco\\source\\repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atosco\\Source\\Repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.csproj",
+        "projectUniqueName": "C:\\Users\\atosco\\source\\repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.csproj",
         "projectName": "Arch.ILS.MarketShare",
-        "projectPath": "C:\\Users\\atosco\\Source\\Repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.csproj",
+        "projectPath": "C:\\Users\\atosco\\source\\repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare.csproj",
         "packagesPath": "C:\\Users\\atosco\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\atosco\\Source\\Repos\\Arch.ILS.MarketShare\\Arch.ILS.MarketShare\\obj\\",
         "projectStyle": "PackageReference",

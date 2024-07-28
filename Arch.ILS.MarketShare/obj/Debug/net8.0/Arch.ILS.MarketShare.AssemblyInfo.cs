@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arch.ILS.MarketShare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7283372ae1ae8eaf0d9f474d804a2cbabc952611")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arch.ILS.MarketShare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arch.ILS.MarketShare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
